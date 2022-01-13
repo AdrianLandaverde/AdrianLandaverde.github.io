@@ -1,0 +1,54 @@
+
+# section information
+section:
+  name: Educación
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Ingeniería en Ciencia de Datos y Matemáticas
+  icon: fa-graduation-cap
+  timeframe: 2020-2024
+  institution:
+    name: Tec de Monterrey Campus Estado de México
+    url: "#"
+  grade: #(optional)
+    scale: Promedio Acumulado
+    achieved: 99
+    outOf: 100
+  extracurricularActivities: #(optional)
+  - "Deportes: Entreno Atletismo para competir en Spartan Race y Triatlón para competir en Ironman"
+  - "HeroX: Participé en la segunda genearación del programa HeroX acerca de liderazgo consciente"
+  - "Eugenio Garza Sada Global Leadership Program: Soy parte de la primera generación de este programa de liderazgo internacional liderado por el Dr. Kasonde Musoma"
+- name: Bachillerato Internacional
+  icon: fa-university
+  timeframe: 2017-2020
+  institution:
+    name: Prepa Tec campus Estado de México
+    url: "#"
+  grade: #(optional)
+    scale: Proemdio
+    achieved: 97
+    outOf: 100
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Matemáticas Nivel Superior
+    - name: Informática Nivel Medio
+    - name: "Inglés: Lenguaje y Literatura Nivel Superior"
+    - name: Biología Nivel Medio
+    - name: Historia Nivel Medio
+    - name: "Español: Literatura Nivel Superior"
+  extracurricularActivities: #(optional)
+  - "Deportes: Natación, Atletismo, Cross-Fit, Tenis"
+  - "EduCAS: Un proyecto en el que fui a una escuela primaria a enseñar arte sustentable a los estudiantes"
+  - Asistí a un asilo de gente mayor a ayudar y realizar actividades para entretenerlos
+  - Contribuí en los proyectos de recolección de PET, Tetrapack y tapitas
+  - "Huellitas verdes: Creé un grupo estudiantil relacionado al medio ambiente y los animales"
