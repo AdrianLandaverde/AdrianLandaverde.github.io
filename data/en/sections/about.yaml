@@ -1,0 +1,59 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Fourth semester in Engineering in Data Science and Maths
+# your company information
+company:
+  name: Tec de Monterrey.
+  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV.pdf"
+
+# a summary about you
+summary: 'I am a passionate about data science and programming. I always go the extra mile in my academic and personal projects trying to do more than it is necessary'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/AdrianLandaverde"
+
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/adrian-landaverde-nava"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "adrianlandaverden@gmail.com"
+
+# your soft skills
+softSkills:
+- name: Leadership
+  percentage: 100
+  color: blue
+- name: Autodidact
+  percentage: 100
+  color: green
+- name: Communication
+  percentage: 100
+  color: orange
+- name: Hard Work
+  percentage: 100
+  color: sky
+- name: Team Work
+  percentage: 100
+  color: yellow
+- name: Curious
+  percentage: 100
+  color: pink
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange

@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Advanced Machine Learning deployment using Supervized and Unsupervized learning using Sickit Learn. Advanced use of Numpy, Pandas, Matplotlib and Seaborn. Experience with Web Scrapping using Selenium"
+
+- name: R
+  logo: "/images/sections/skills/r.jpg"
+  summary: "Basic Machine Learning deployment using Supervized Learning. Experience using ggpplot and tidyverse. Advanced use of Shiny to create Dashboards and its deployment into the Web"
+
+- name: Matlab
+  logo: "/images/sections/skills/matlab.png"
+  summary: "Advanced use of Matlab to graph 2D and 3D data. Advanced use of Matlab to create animations. Advanced use of App designer to create simple apps which include complex calculations and animations"
+
+- name: Java
+  logo: "/images/sections/skills/java.png"
+  summary: "Experience building mobile apps with Android Studio using Java as backend and XML as frontend. Experience building simple games such as Snake, Pacman, Flappy Bird, Frogger and Onitama."
+
+- name: Mathematica
+  logo: "/images/sections/skills/mathematica.png"
+  summary: "Experience with complex calculations to solve differential equations. Experience creating graphs to visualize data in 2D, 3D and 4D."

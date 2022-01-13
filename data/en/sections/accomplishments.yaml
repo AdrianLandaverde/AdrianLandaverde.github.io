@@ -1,0 +1,91 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+
+accomplishments:
+
+- name: "Foundations of Sports Analytics: Data, Representation, and Models in Sports"
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: This course provides an introduction to using Python to analyze team performance in sports. Learners will discover a variety of techniques that can be used to represent sports data and how to extract narratives based on these analytical techniques. The main focus of the introduction will be on the use of regression analysis to analyze team and player performance data.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/66WD5LGWR8CB"
+
+- name: Applied Social Network Analysis in Python
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: This course will introduce the learner to network analysis through tutorials using the NetworkX library. It focuses on understanding of what network analysis is, connectivity and network robustness, ways of measuring the importance or centrality of a node in a network and evolution of networks over time and cover models of network generation.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/VUVX3YNDQRWQ"
+
+- name: Applied Text Mining in Python
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: This course will introduce the learner to text mining and text manipulation basics.It focuses on how text is handled by python, common manipulation needs, including regular expressions, cleaning text, and preparing text for use by machine learning processes, basic natural language processing methods and advanced methods for detecting the topics in documents
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/XBZMGFE2XGHD"
+
+- name: Applied Machine Learning in Python
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: This course will introduce the learner to identify the difference between a supervised (classification) and unsupervised (clustering) technique, identify which technique they need to apply for a particular dataset and need, engineer features to meet that need, and write python code to carry out an analysis. 
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/YNMPBFJ4584P"
+
+- name: Applied Plotting, Charting & Data Representation in Python
+  timeline: "2021"
+  organization:
+    name: Coursera
+  courseOverview: This course will introduce the learner to information visualization basics, with a focus on reporting and charting using the matplotlib library. It includes design and information literacy perspective, best practices when creating basic charts and how to realize design decisions in the framework, functionality available in matplotlib, and other forms of structuring and visualizing data. 
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/ZTG7R8VQXTMQ"
+
+- name: Introduction to Data Science in Python
+  timeline: "2021"
+  organization:
+    name: Coursera
+  courseOverview: This course will introduce the learner to the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. The course will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functions such as groupby, merge, and pivot tables effectively
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/KLT6KWF97EQ9"
+
+- name: Data Science Micro-courses
+  timeline: "2021"
+  organization:
+    name: Kaggle
+  courseOverview: "Courses focused in data science from basic to advanced: Python, Data visualization, Pandas, Data Cleaning, Geospatial Analysis, Intro to Machine Learning, Machine Learning Explainability, Intermidiate Machine Learning, Feature Engineering, Time Series."
+  certificateURL: "https://www.kaggle.com/learn/certification/adrinlandaverdenava/intermediate-machine-learning"
+
+- name: HeroX
+  timeline: "2021"
+  organization:
+    name: Conscious Business Center
+  courseOverview: It is a integral training proram for anyone who aspire to become a entrepreneurial leader and moral leader. It is a preparation to be an inspiring example of a full and virtuous life, a reflection of moral values ​​and virtues, that is, those that encourage the flourishing of conscious beings.
+  certificateURL: "https://campus.cbcinternational.org/mod/customcert/my_certificates.php?userid=5425&certificateid=52&downloadcert=1"
+
+- name: Android Fundamentals
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: Use of Android Studio tools to create simple interactive mobile apps
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/GYBWEQ8P9MA2"
+
+- name: Programming with Java for Android apps
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: Basic Java with Object Oriented Programming to program basic Android apps.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/CDLG24HZ5W4J"
+
+- name: "Front-End Web UI Frameworks and Tools: Bootstrap 4"
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: "This course will give you an overview of client-side web UI frameworks, in particular Bootstrap 4. You will learn about grids and responsive design, Bootstrap CSS and JavaScript components. You will learn about CSS preprocessors, Less and Sass. You will also learn the basics of Node.js and NPM and task runners like Grunt and Gulp."
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/2LMAYLN38ZF8"

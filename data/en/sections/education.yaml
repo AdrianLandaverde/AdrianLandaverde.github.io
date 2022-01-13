@@ -1,0 +1,54 @@
+
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Engineering in Data Science and Maths
+  icon: fa-graduation-cap
+  timeframe: 2020-2024
+  institution:
+    name: Tec de Monterrey Campus Estado de México
+    url: "#"
+  grade: #(optional)
+    scale: Actual Grade
+    achieved: 99
+    outOf: 100
+  extracurricularActivities: #(optional)
+  - "Sports: I train Athletics to compete in Spartan Race and Triathlon to compete in Ironman"
+  - "HeroX: I participated in the second generation of the program HeroX about conscious leadership"
+  - "Eugenio Garza Sada Global Leadership Program: I'm in the first geneartion of this global leadership program leaded by Dr. Kasonde Musoma"
+- name: International Baccalaureate
+  icon: fa-university
+  timeframe: 2017-2020
+  institution:
+    name: Prepa Tec campus Estado de México
+    url: "#"
+  grade: #(optional)
+    scale: Grade
+    achieved: 97
+    outOf: 100
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Mathematics High Level
+    - name: Computer Science Standard Level
+    - name: English Language and Litearure High Level
+    - name: Biology Standar Level
+    - name: History Standard Level
+    - name: Spanish Literature High Level
+  extracurricularActivities: #(optional)
+  - "Sports: Swimming, Athletics, Cross-Fit, Tennis"
+  - "EduCAS: A project in which I went to a primary school to teach sustainable art to primary children"
+  - I went to a elderly home to help and make activities to entertain them
+  - I contribuited in the projects to collect PET, tetrapack and bootle caps.
+  - "Huellitas verdes: I created a student group related to the envirorment and animals"
