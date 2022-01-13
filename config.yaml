@@ -43,3 +43,9 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+    
+  flagOverwrites:
+  - languageCode: en
+    countryCode: us
+  - languageCode: sp
+    countryCode: mx
