@@ -15,7 +15,7 @@ company:
   url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/CV.pdf"
+resume: "files/CV_es.pdf"
 
 # a summary about you
 summary: 'Me apasiona la ciencia de datos y la programación. Yo siempre doy un esfuerzo extra en mis proyectos académicos y personales al tratar de hacer más de lo necesario'
