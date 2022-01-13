@@ -1,0 +1,18 @@
+# some information about you
+name: "Adrián Landaverde Nava"
+nickname: "Adrián"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hola, soy"
+image: "images/author/adrian.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "adrianlandaverden@gmail.com"
+  phone: "5530510943"
+
+# some summary about what you do
+summary:
+  - Soy un Científico de Datos
+  - Soy autodidacta
+  - Soy un Spartan
+  - Soy Vegano
+  - Soy un HeroX
