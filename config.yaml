@@ -12,6 +12,9 @@ languages:
   en:
     languageName: English
     weight: 1
+  sp:
+    languageName: Spanish
+    weight: 3
 
 # Control TOC depth
 markup:
