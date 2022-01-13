@@ -25,7 +25,7 @@ skills:
 
 - name: Java
   logo: "/images/sections/skills/java.png"
-  summary: "Experience building mobile apps with Android Studio using Java as backend and XML as frontend. Experience building simple games such as Snake, Pacman, Flappy Bird, Frogger and Onitama."
+  summary: "Experience building mobile apps with Android Studio using Java as backend and XML as frontend and a SQL database. Experience building simple games such as Snake, Pacman, Flappy Bird, Frogger and Onitama."
 
 - name: Mathematica
   logo: "/images/sections/skills/mathematica.png"
