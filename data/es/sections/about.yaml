@@ -1,0 +1,59 @@
+# section information
+section:
+  name: "Acerca de mí"
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Cuarto semestre de Ingeniería en Ciencia de Datos y Matemáticas
+# your company information
+company:
+  name: Tec de Monterrey.
+  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/CV.pdf"
+
+# a summary about you
+summary: 'Me apasiona la ciencia de datos y la programación. Yo siempre doy un esfuerzo extra en mis proyectos académicos y personales al tratar de hacer más de lo necesario'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/AdrianLandaverde"
+
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/adrian-landaverde-nava"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "adrianlandaverden@gmail.com"
+
+# your soft skills
+softSkills:
+- name: Liderazgo
+  percentage: 100
+  color: blue
+- name: Autodidacta
+  percentage: 100
+  color: green
+- name: Comunicación
+  percentage: 100
+  color: orange
+- name: Esfuerzo
+  percentage: 100
+  color: sky
+- name: Trabajo en Equipo
+  percentage: 100
+  color: yellow
+- name: Curioso
+  percentage: 100
+  color: pink
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
