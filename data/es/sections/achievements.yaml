@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: 10K Challenge
+  image: /images/sections/achievements/10K_Challenge.jpg
+  summary: Primer Lugar en la categoría Adventurer del 10K Challenge.
+- title: The Hero Race
+  image: /images/sections/achievements/Hero_race.jpg
+  summary: Primer lugar en la carrera de 5Km del Hero Fund.
