@@ -10,7 +10,7 @@ section:
 
 # filter buttons
 buttons:
-- name: All
+- name: Todos
   filter: "all"
 - name: Python
   filter: "Python"
