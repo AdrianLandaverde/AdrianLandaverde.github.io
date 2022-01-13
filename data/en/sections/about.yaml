@@ -15,7 +15,7 @@ company:
   url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/CV.pdf"
+resume: "files/CV_en.pdf"
 
 # a summary about you
 summary: 'I am a passionate about data science and programming. I always go the extra mile in my academic and personal projects trying to do more than it is necessary'
