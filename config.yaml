@@ -12,8 +12,8 @@ languages:
   en:
     languageName: English
     weight: 1
-  sp:
-    languageName: Spanish
+  es:
+    languageName: Español
     weight: 3
 
 # Control TOC depth
@@ -47,5 +47,5 @@ params:
   flagOverwrites:
   - languageCode: en
     countryCode: us
-  - languageCode: sp
+  - languageCode: es
     countryCode: mx
