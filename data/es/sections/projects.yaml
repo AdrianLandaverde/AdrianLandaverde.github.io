@@ -65,7 +65,7 @@ Implementación de Random Forest para predecir la energía por día en toda la p
 Análisis genral de las estadísticas y la correlación entre ellas.
 Análisis multidimensional para encontrar la combinación óptima.
 Creación de un Dashboard con Shiny para encontrar la combinación más cercana a cierta estadística usando KNN.
-Aplicación web en: https://adrian-landaverde.shinyapps.io/MarioKart8/"
+Aplicación web en https://adrian-landaverde.shinyapps.io/MarioKart8/"
   tags: ["Personal","R"]
 
 - name: Predictor de contaminantes en la CDMX
