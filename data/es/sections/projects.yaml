@@ -87,7 +87,7 @@ Presentación de los resultados en un Dashboar de Shiny con R."
   timeline: "2021"
   repo: https://github.com/AdrianLandaverde/Genes_Cancer_de_Colon
   #url: ""
-  summary: Datos obtenidos de un microarray de expresión de genes de Geo Datasets.
+  summary: "Datos obtenidos de un microarray de expresión de genes de Geo Datasets.
 Análisis de la expresión de genes en jóvenes y adultos con cáncer de colon en etapa II y III.
 Selección de genes basado en una prueba t de student.
 Gráfico de volcán y R-I para encontrar genes diferenciales entre los cuatro grupos.
