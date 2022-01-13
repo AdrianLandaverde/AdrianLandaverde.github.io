@@ -1,0 +1,106 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Python
+  filter: "Python"
+- name: R
+  filter: "R"
+- name: Machine Learning
+  filter: "Machine Learning"
+- name: Académico
+  filter: "Académico"
+- name: Profesional
+  filter: "Profesional"
+- name: Personal
+  filter: "Personal"
+
+# your projects
+projects:
+- name: Acceso a la salud en el Estado de México
+  #logo: /images/sections/projects/kubernetes.png
+  role: Professional
+  timeline: "2021"
+  repo: https://github.com/AdrianLandaverde/10K_Challenge
+  #url: ""  
+  summary: "Web Scrapping usando Selenium para obtener información de cad aunidad médica en el Estado de México.
+Análisis exploratorio de la población de cada municipio y la cobertura de cada unidad médica.
+Creación de variables en cad apunto del Estado de México.
+Clustering multidimensional usando K-means para identificar los niveles de acceso a la salud.
+Intento de predecir el acceso a la salud usando Random Forest, KNN, SVM y regresión Logística.
+Finalmente, el programa recive una entrada de longitud y latitud y muestra el nivel de acceso a la salud en ese punto en un mapa usando KNN."
+  tags: ["Profesional","R","Python","Machine Learning"]
+
+- name: Optimización de Procesos para FEMSA-Coca cola
+  #logo: /images/sections/projects/kubernetes.png
+  role: Académico
+  timeline: "2021"
+  #repo: https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8
+  #url: ""  
+  summary: "Información obtenida de las máquinas de compresión y refrigeración de la planta de Altamira.
+Análisis exploratorio de cada variable en el tiempo y dividio por tipo de bebida.
+Uso de una prueba t de student y prueba de Anova para comparar producción de bebida.
+Implementación de Random Forest par predecir la potencia eléctrica de las máquinas basada en la producción.
+Reducción de dimensiones usando Principal Component Analysis.
+Implementación de Random Forest para predecir la energía por día en toda la planta usando los datos tras la reducción de dimensiones."
+  tags: ["Académico","R","Python","Machine Learning"]
+
+- name: Optimización de Combinaciones en Mario Kart 8
+  #logo: /images/sections/projects/kubernetes.png
+  role: Personal
+  timeline: "2021"
+  repo: https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8
+  #url: ""  
+  summary: "Datos obtenidos de las estadísticas de cada conductor, kart, alas y llantas de Mario Kart 8 Deluxe.
+Análisis genral de las estadísticas y la correlación entre ellas.
+Análisis multidimensional para encontrar la combinación óptima.
+Creación de un Dashboard con Shiny para encontrar la combinación más cercana a cierta estadística usando KNN.
+Aplicación web en: https://adrian-landaverde.shinyapps.io/MarioKart8/"
+  tags: ["Personal","R"]
+
+- name: Predictor de contaminantes en la CDMX
+  #logo: /images/sections/projects/kubernetes.png
+  role: Académico
+  timeline: "2021"
+  repo: https://github.com/AdrianLandaverde/Contaminantes_en_la_CDMX 
+  #url: ""  
+  summary: "Uso de una base de datos de cada contaminante registrado del 2010 al 2020 en la CDMX por estación.
+Análisis en el tiempo de la cantidad de cada contaminante en cada estación.
+Regresión lineal para predecir la cantidad de contaminantes en el futuro.
+Regresión lineal múltiple para predecir la cantidad de contaminantes basado en las codiciones meteorológicas como presión, temperatura, velocidad del viento, entre otros.
+Presentación de los resultados en un Dashboar de Shiny con R."
+  tags: ["Académico","R"]
+
+- name: Análisis de genes que causan cáncer de colon
+  #logo: /images/sections/projects/tensorflow.png
+  role: Académico
+  timeline: "2021"
+  repo: https://github.com/AdrianLandaverde/Genes_Cancer_de_Colon
+  #url: ""
+  summary: Datos obtenidos de un microarray de expresión de genes de Geo Datasets.
+Análisis de la expresión de genes en jóvenes y adultos con cáncer de colon en etapa II y III.
+Selección de genes basado en una prueba t de student.
+Gráfico de volcán y R-I para encontrar genes diferenciales entre los cuatro grupos.
+Investigación de los genes principales usando las bases de datos de STRING, KEGG, Panther, and NCBI.
+Análisis de la relación y efectos de los genes que ocasionan que el cáncer de colon evoluciones de etapa II a III."
+  tags: ["R","Académico"]
+
+- name: Calorías por gramo de macro y micronutrientes en mi dieta vegana
+  #logo: /images/sections/projects/toha.png
+  role: Académico
+  timeline: "2020"
+  #repo: https://github.com/hossainemruz/toha
+  summary: "Creación de mi propia base de datos de macro y micronutrientes en cada comida que consumí por 15 semanas.
+Análisis Exploratorio en Excel para analizar mi consumo de comida en esas 15 semanas.
+Uso de Regresión Lineal con Sickit-Learn para predecir calorías por gramo de nutriente."
+  tags: ["Python","Academic"]
