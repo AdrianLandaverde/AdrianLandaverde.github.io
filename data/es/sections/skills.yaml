@@ -1,0 +1,32 @@
+# section information
+section:
+  name: Paqueterías
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Machine Learning avanzado usando aprendizaje supervisado y no supervisado con Sickit-Learn. Uso avanzado de Numpy, Pandas, Matplotlib y Seaborn. Experiencia de Web Scrapping usando Selenium"
+
+- name: R
+  logo: "/images/sections/skills/r.jpg"
+  summary: "Machine Learning básico con aprendizaje supervisado. Experiencia usando ggplot y tidyverse. Uso avanzado de Shiny para crear Dashboards y desplegarlos en la web"
+
+- name: Matlab
+  logo: "/images/sections/skills/matlab.png"
+  summary: "Uso avanzado de Matlab para graficar información en 2D y 3D. Uso avanzado de Matlab para crear animaciones. Uso avanzado del App Designer para crear aplicaciones que incluyen cálculos complejos y animaciones"
+
+- name: Java
+  logo: "/images/sections/skills/java.png"
+  summary: "Experiencia construyendo aplicaciones móviles con Android Studio usando Java como backend y XML como frontend y bases de datos SQL. Experiencia construyendo juegos simples como Snake, Pacman, Flappy Bird, Frogger y Onitama."
+
+- name: Mathematica
+  logo: "/images/sections/skills/mathematica.png"
+  summary: "Experiencia con cálculos complejos para resolver ecuaciones diferenciales. Experiencia creando gráficos para visualizar información en 2D, 3D y 4D"
