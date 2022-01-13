@@ -60,7 +60,7 @@ accomplishments:
   organization:
     name: Kaggle
   courseOverview: "Courses focused in data science from basic to advanced: Python, Data visualization, Pandas, Data Cleaning, Geospatial Analysis, Intro to Machine Learning, Machine Learning Explainability, Intermidiate Machine Learning, Feature Engineering, Time Series."
-  certificateURL: "https://www.kaggle.com/learn/certification/adrinlandaverdenava/intermediate-machine-learning"
+  certificateURL: "files/kaggle_courses.pdf"
 
 - name: HeroX
   timeline: "2021"
