@@ -1,0 +1,91 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+
+accomplishments:
+
+- name: "Bases del Ánlisis de Deportes: Datos, Representación y Modelos en Deportes"
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: Este curso proporciona una introducción al uso de Python para analizar el rendimiento de los equipos en los deportes. Los alumnos descubrirán una variedad de técnicas que se pueden usar para representar datos deportivos y cómo extraer narrativas basadas en estas técnicas analíticas. El enfoque principal de la introducción será el uso del análisis de regresión para analizar los datos de rendimiento del equipo y del jugador.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/66WD5LGWR8CB"
+
+- name: Análisis de Redes Sociales Aplicado en Python
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: Este curso introducirá al alumno al análisis de redes a través de tutoriales utilizando la biblioteca NetworkX. Se centra en la comprensión de lo que es el análisis de redes, la conectividad y la solidez de las redes, las formas de medir la importancia o la centralidad de un nodo en una red y la evolución de las redes a lo largo del tiempo y cubre los modelos de generación de redes.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/VUVX3YNDQRWQ"
+
+- name: Minería de Texto Aplicada en Python
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: Este curso presentará al alumno los conceptos básicos de minería de texto y manipulación de texto. Se centra en cómo python maneja el texto, las necesidades de manipulación comunes, incluidas las expresiones regulares, la limpieza del texto y la preparación del texto para su uso en los procesos de aprendizaje automático, métodos básicos de procesamiento del lenguaje natural y métodos avanzados para detectar los temas en los documentos
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/XBZMGFE2XGHD"
+
+- name: Aprendizaje Automático Aplicado en Python
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: Este curso introducirá al alumno a identificar la diferencia entre una técnica supervisada (clasificación) y no supervisada (agrupación), identificará qué técnica necesita aplicar para un conjunto de datos y una necesidad en particular, diseñará características para satisfacer esa necesidad y escribirá código Python para poder realizar un análisis.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/YNMPBFJ4584P"
+
+- name: Aplicación de Gráficos, Tablas y Representación de Datos en Python
+  timeline: "2021"
+  organization:
+    name: Coursera
+  courseOverview: Este curso introducirá al alumno a los conceptos básicos de visualización de información, con un enfoque en informes y gráficos utilizando la biblioteca matplotlib. Incluye la perspectiva del diseño y la alfabetización informacional, las mejores prácticas al crear gráficos básicos y cómo tomar decisiones de diseño en el marco, la funcionalidad disponible en matplotlib y otras formas de estructurar y visualizar datos.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/ZTG7R8VQXTMQ"
+
+- name: Introducción a la Ciencia de Datos en Python
+  timeline: "2021"
+  organization:
+    name: Coursera
+  courseOverview: Este curso presentará al alumno los conceptos básicos del entorno de programación de Python, incluidas las técnicas fundamentales de programación de Python, como lambdas, lectura y manipulación de archivos csv y la biblioteca numpy. El curso introducirá técnicas de manipulación y limpieza de datos utilizando la popular biblioteca de ciencia de datos python pandas e introducirá la abstracción de Series y DataFrame como las estructuras de datos centrales para el análisis de datos, junto con tutoriales sobre cómo usar funciones como groupby, merge y tablas dinámicas de manera efectiva
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/KLT6KWF97EQ9"
+
+- name: Micro-cursos de Ciencia de Datos
+  timeline: "2021"
+  organization:
+    name: Kaggle
+  courseOverview: "Cursos enfocados en Ciencia de Datos desde básico hasta avanzado: Python, Visualizaciónde Datos, Pandas, Limpieza de Datos, Análisis Geospacial, Introducción al Aprendizaje Automático, Explicabilidad del Aprendizaje Automático, Aprendizaje Automático Intermedio, Ingeniería de Características, Series de Tiempo."
+  certificateURL: "files/kaggle_courses.pdf"
+
+- name: HeroX
+  timeline: "2021"
+  organization:
+    name: Conscious Business Center
+  courseOverview: "Es un programa de entrenamiento integral para cualquier persona que aspire a convertirse en líder emprendedor y héroe moral. Es una preparación para ser un ejemplo inspirador de vida plena y virtuosa, reflejo de los valores y virtudes morales, es decir, los que fomentan el florecimiento de los seres conscientes."
+  certificateURL: "files/LE-Certificado.pdf"
+
+- name: Fundamentos de Android
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: Uso de las herramientas de Android Studio para crear aplicaciones móviles sencillas e interactivas
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/GYBWEQ8P9MA2"
+
+- name: Programando con Java para aplicaciones Android
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: Java básico con programación orientada a objetos para programar aplicaciones Android básicas.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/CDLG24HZ5W4J"
+
+- name: "Marcos y herramientas de interfaz de usuario web front-end: Bootstrap 4"
+  timeline: "2020"
+  organization:
+    name: Coursera
+  courseOverview: Este curso le brindará una descripción general de los marcos de interfaz de usuario web del lado del cliente, en particular Bootstrap 4. Aprenderá sobre cuadrículas y diseño receptivo, Bootstrap CSS y componentes de JavaScript. Aprenderá sobre los preprocesadores CSS, Less y Sass. También aprenderá los conceptos básicos de Node.js y NPM y ejecutores de tareas como Grunt y Gulp.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/2LMAYLN38ZF8"
