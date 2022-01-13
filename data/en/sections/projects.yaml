@@ -33,12 +33,12 @@ projects:
   timeline: "2021"
   repo: https://github.com/AdrianLandaverde/10K_Challenge
   #url: ""  
-  summary: "Web Scrapping using Selenium to get data from every medical unit in the State of Mexico
-Exploratory data analysis of the population of every county and coverage of medical units
-Creation of variables in every point of the State of Mexico
-Multidimensional clustering using K-means to identify the level of access to health
+  summary: "Web Scrapping using Selenium to get data from every medical unit in the State of Mexico.
+Exploratory data analysis of the population of every county and coverage of medical units.
+Creation of variables in every point of the State of Mexico.
+Multidimensional clustering using K-means to identify the level of access to health.
 Attempt to predict the acces to health using Random Forest, KNN, SVM and logistic regression
-Finally, the program receives an input of longitude and latitude and it shows the level of health in that zone in a map using KNN"
+Finally, the program receives an input of longitude and latitude and it shows the level of health in that zone in a map using KNN."
   tags: ["Professional","R","Python","Machine Learning"]
 
 - name: Process Optimization for FEMSA-Coca Cola
@@ -47,12 +47,12 @@ Finally, the program receives an input of longitude and latitude and it shows th
   timeline: "2021"
   #repo: https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8
   #url: ""  
-  summary: "Data obtained from the Altamira plant of the compression and refrigeration machines
-Exploratory data analysis of every variable in time and divided by type of beverage
-Usage of t-test and Anova test to compare beverage production
-Implementation of Random Forest algorithm to predict the electric power of machines based on the production
-Reduction of dimensions using Principal Component Analysis
-Implementation of Random Forest to predict energy per day in the whole plant in the dataset after PCA"
+  summary: "Data obtained from the Altamira plant of the compression and refrigeration machines.
+Exploratory data analysis of every variable in time and divided by type of beverage.
+Usage of t-test and Anova test to compare beverage production.
+Implementation of Random Forest algorithm to predict the electric power of machines based on the production.
+Reduction of dimensions using Principal Component Analysis.
+Implementation of Random Forest to predict energy per day in the whole plant in the dataset after PCA."
   tags: ["Academic","R","Python","Machine Learning"]
 
 - name: Mario Kart 8 combination optimization
@@ -63,8 +63,8 @@ Implementation of Random Forest to predict energy per day in the whole plant in 
   #url: ""  
   summary: "Data obtained from the stats of every driver, kart, glider and tires from Mario Kart 8 Deluxe.
 Analysis of general stats and correlation between stats.
-Multidimensional analysis using to find the optimal combination
-Creation of a R Shiny Dashboard to find the combination nearest to certain stats using KNN
+Multidimensional analysis using to find the optimal combination.
+Creation of a R Shiny Dashboard to find the combination nearest to certain stats using KNN.
 Web app in: https://adrian-landaverde.shinyapps.io/MarioKart8/"
   tags: ["Personal","R"]
 
