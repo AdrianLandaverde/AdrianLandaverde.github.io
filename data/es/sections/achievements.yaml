@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Achievements
+  name: Logros
   id: achievements
   enable: true
   weight: 8
