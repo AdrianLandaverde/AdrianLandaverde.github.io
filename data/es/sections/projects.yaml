@@ -27,9 +27,20 @@ buttons:
 
 # your projects
 projects:
+- name: Safe Roads 2022
+  #logo: /images/sections/projects/kubernetes.png
+  role: Profesional
+  timeline: "2022"
+  #repo: https://github.com/AdrianLandaverde/10K_Challenge
+  #url: ""  
+  summary: "Uso de bases de datos relacionadas al tráfico de el Servicio de Policía de Toronto, Geotab e INEGI. 
+  Análisis de las colisiones vehiculares en Toronto y en México. 
+  Análisis geográfico en el tiempo de las colisiones vehpiculares en ambas zonas."
+  tags: ["Professional","Python"]
+  
 - name: Acceso a la salud en el Estado de México
   #logo: /images/sections/projects/kubernetes.png
-  role: Professional
+  role: Profesional
   timeline: "2021"
   repo: https://github.com/AdrianLandaverde/10K_Challenge
   #url: ""  
