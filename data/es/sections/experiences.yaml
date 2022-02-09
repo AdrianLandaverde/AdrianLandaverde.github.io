@@ -1,5 +1,5 @@
 section:
-  name: Experiences
+  name: Experiencia
   id: experiences
   enable: true
   weight: 3
@@ -16,7 +16,7 @@ experiences:
     overview: Un emprendimiento social enfocado en reducir desigualdades en personas con sordera.
   positions:
   - designation: Servicio Social
-    start: Jan 2022
+    start: Ene 2022
     end: Feb 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
