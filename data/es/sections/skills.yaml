@@ -30,3 +30,7 @@ skills:
 - name: Mathematica
   logo: "/images/sections/skills/mathematica.png"
   summary: "Experiencia con cálculos complejos para resolver ecuaciones diferenciales. Experiencia creando gráficos para visualizar información en 2D, 3D y 4D"
+
+- name: SAS
+  logo: "/images/sections/skills/sas.png"
+  summary: "Uso Básico de SAS en la competencia 'Safe Roads 2022'"
