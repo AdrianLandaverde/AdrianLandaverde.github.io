@@ -1,0 +1,26 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Hello World.
+    url: "https://helloworldapp.000webhostapp.com/#"
+    # company overview
+    overview: Un emprendimiento social enfocado en reducir desigualdades en personas con sordera.
+  positions:
+  - designation: Servicio Social
+    start: Jan 2022
+    end: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Analizar sintaxis de la tradución de Español a LSM usando NLP
+    - Desarrollar un traductor de syntaxis de Español a LSM usando Machine Learning
