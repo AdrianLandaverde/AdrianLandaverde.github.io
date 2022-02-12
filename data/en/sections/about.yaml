@@ -35,34 +35,38 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "adrianlandaverden@gmail.com"
 
-# your soft skills
 
+badges:
 - type: soft-skill-indicator
   name: Leadership
   percentage: 100
   color: blue
+  
 - type: soft-skill-indicator
   name: Autodidact
   percentage: 100
   color: green
+  
 - type: soft-skill-indicator
   name: Communication
   percentage: 100
   color: orange
+  
 - type: soft-skill-indicator
   name: Hard Work
   percentage: 100
   color: sky
+  
 - type: soft-skill-indicator
   name: Team Work
   percentage: 100
   color: yellow
+  
 - type: soft-skill-indicator
   name: Curious
   percentage: 100
   color: pink
   
- badges:
 - type: certification
   name: SAS Programming 1
   url: "https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url"
