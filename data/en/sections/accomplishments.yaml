@@ -18,6 +18,7 @@ accomplishments:
   organization:
     name: SAS
   courseOverview: This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses.
+  certificateURL: "https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url"
 
 - name: "Foundations of Sports Analytics: Data, Representation, and Models in Sports"
   timeline: "2022"
