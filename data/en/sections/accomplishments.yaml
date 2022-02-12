@@ -13,6 +13,12 @@ section:
 
 accomplishments:
 
+- name: "SAS Programming 1: Essentials"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses.
+
 - name: "Foundations of Sports Analytics: Data, Representation, and Models in Sports"
   timeline: "2022"
   organization:
