@@ -33,7 +33,8 @@ projects:
   timeline: "2022"
   #repo: https://github.com/AdrianLandaverde/10K_Challenge
   #url: ""  
-  summary: "Uso de bases de datos relacionadas al tráfico de el Servicio de Policía de Toronto, Geotab e INEGI. 
+  summary: "Ganador de esta competencia entre Canadá y México. 
+  Uso de bases de datos relacionadas al tráfico de el Servicio de Policía de Toronto, Geotab e INEGI. 
   Análisis de las colisiones vehiculares en Toronto y en México. 
   Análisis geográfico en el tiempo de las colisiones vehpiculares en ambas zonas. 
   Uso de Machine Learning para agrupar lugares públicos basado en el peligro de que ocurran accidentes cerca de ellos y un algoritmo que predice la probabilidad de un accidente basado en el clima."
