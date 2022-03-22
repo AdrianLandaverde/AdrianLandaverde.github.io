@@ -18,7 +18,7 @@ degrees:
     name: Tec de Monterrey Campus Estado de México
     url: "#"
   grade: #(optional)
-    scale: Actual Grade
+    scale: Current Grade
     achieved: 99
     outOf: 100
   extracurricularActivities: #(optional)
