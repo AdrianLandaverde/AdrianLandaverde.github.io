@@ -39,7 +39,7 @@ projects:
   Geographical analysis in time of traffic collisions on both zones. 
   Use of Machine Learning to cluster public places based on danger to have accidents near them and an algorithm to predict the probability of an accident based on the weather"
   url: "https://youtu.be/3Cey1PUhGBg"
-  tags: ["Professional","Python"]
+  tags: ["Professional","Python", "Machine Learning"]
 
 - name: Access to Health in State of México
   #logo: /images/sections/projects/kubernetes.png
