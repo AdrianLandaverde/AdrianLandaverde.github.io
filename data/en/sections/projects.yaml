@@ -40,6 +40,17 @@ projects:
   Use of Machine Learning to cluster public places based on danger to have accidents near them and an algorithm to predict the probability of an accident based on the weather"
   url: "https://youtu.be/3Cey1PUhGBg"
   tags: ["Professional","Python", "Machine Learning"]
+  
+- name: QS World Ranking Analysis
+  #logo: /images/sections/projects/kubernetes.png
+  role: Academic
+  timeline: "2022"
+  url: "https://youtu.be/yuY4WPvZp6M"  
+  summary: "Analysis of the QS World Ranking and the QS World Ranking by Subject. 
+  Analysis of the most important variables to predict the global Score. 
+  Machine Learning to analyze the most important subject scores that influence the global score. 
+  Analysis of the schools that had a higher increase in their global score by suject"
+  tags: ["Academic","Python","Machine Learning"]
 
 - name: Access to Health in State of México
   #logo: /images/sections/projects/kubernetes.png
