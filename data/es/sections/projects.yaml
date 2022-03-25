@@ -41,6 +41,16 @@ projects:
   url: "https://youtu.be/3Cey1PUhGBg"
   tags: ["Profesional","Python", "Machine Learning"]
   
+- name: Análisis QS World Ranking
+  #logo: /images/sections/projects/kubernetes.png
+  role: Academic
+  timeline: "2022"
+  summary: "Análisis del QS World Ranking y el QS World Ranking por materia. 
+  Análisis de las variables más importantes para predecir el puntaje global. 
+  Uso de Machine Learning para analizar los puntajes más importantes de cada materia que influyen en el puntaje global. 
+  Análisis por materia de las escuelas que tuvieron un aumento más grande en su puntaje global."
+  tags: ["Académico","Python","Machine Learning"]
+  
 - name: Acceso a la salud en el Estado de México
   #logo: /images/sections/projects/kubernetes.png
   role: Profesional
