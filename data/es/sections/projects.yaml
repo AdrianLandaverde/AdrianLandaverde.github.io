@@ -43,7 +43,7 @@ projects:
   
 - name: Análisis QS World Ranking
   #logo: /images/sections/projects/kubernetes.png
-  role: Academic
+  role: Académico
   timeline: "2022"
   summary: "Análisis del QS World Ranking y el QS World Ranking por materia. 
   Análisis de las variables más importantes para predecir el puntaje global. 
