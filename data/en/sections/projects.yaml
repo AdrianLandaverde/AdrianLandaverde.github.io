@@ -45,7 +45,6 @@ projects:
   #logo: /images/sections/projects/kubernetes.png
   role: Academic
   timeline: "2022"
-  url: "https://youtu.be/yuY4WPvZp6M"  
   summary: "Analysis of the QS World Ranking and the QS World Ranking by Subject. 
   Analysis of the most important variables to predict the global Score. 
   Machine Learning to analyze the most important subject scores that influence the global score. 
