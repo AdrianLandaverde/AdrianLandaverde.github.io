@@ -18,7 +18,16 @@ company:
 resume: "files/CV_es.pdf"
 
 # a summary about you
-summary: 'Me apasiona la ciencia de datos y la programación. Yo siempre doy un esfuerzo extra en mis proyectos académicos y personales al tratar de hacer más de lo necesario'
+summary: "Me apasiona la ciencia de datos y la programación. Yo siempre doy un esfuerzo extra en mis proyectos académicos y personales al tratar de hacer más de lo necesario.
+
+He ganado competencias de Ciencia de Datos como:
+
+- Primer lugar del 10K Challenge organizado por el Data Science Club at Tec
+
+- Primer lugar de Safe Roads 2022 organizado por el servicio de Policía de Toronto, en colaboración con SAS y Geotab
+
+- Tercer lugar del curso de Ciencia de Datos organizado por la empresa Europea Crystal Systems"
+
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
