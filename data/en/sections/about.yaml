@@ -18,7 +18,15 @@ company:
 resume: "files/CV_en.pdf"
 
 # a summary about you
-summary: 'I am a passionate about data science and programming. I always go the extra mile in my academic and personal projects trying to do more than it is necessary'
+summary: 'I am a passionate about data science and programming. I always go the extra mile in my academic and personal projects trying to do more than it is necessary
+
+I've participated in Data Science competitions
+
+- First place in the 10K challenge organized by the Data Science Club at Tec.
+
+- First place in the Safe Roads 2022 organized by Toronto Police Service
+
+- Third place in the Dara Science Course by Crystal Systems'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
