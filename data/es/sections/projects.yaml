@@ -27,6 +27,15 @@ buttons:
 
 # your projects
 projects:
+
+- name: Optimización de Rutas de Coppel
+  role: Profesional
+  timeline: "2022"
+  summary: "Optimización de rutas de e-commerce de Coppel. 
+  Uso de algoritmos como TSP, VRP y CRVP para optimizar las rutas de entregas. 
+  Creación de una metodología automatizada que crea las mejores rutas posibles, optimizando la cantidad de vehículos, el volumen de cada artíulo y el tiempo total de entregas."
+  tags: ["Profesional","Python"]
+
 - name: Safe Roads 2022
   #logo: /images/sections/projects/kubernetes.png
   role: Profesional
