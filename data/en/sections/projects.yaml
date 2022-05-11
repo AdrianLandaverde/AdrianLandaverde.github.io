@@ -27,12 +27,17 @@ buttons:
 
 # your projects
 projects:
-- name: Safe Roads 2022
-  #logo: /images/sections/projects/kubernetes.png
+- name: Coppel Route Optimization
   role: Professional
   timeline: "2022"
-  #repo: https://github.com/AdrianLandaverde/10K_Challenge
-  #url: ""  
+  summary: "Optimization of Coppel's routes of e-commerce. 
+  Use of  algorithms such as TSP, VRP and CVRP in order to optimize the routes of deliveries. 
+  Creation of an automated methodology that creates the best routes possible optimizing the number of vehicles, the volume of the articles and the total time of the deliveries"
+  tags: ["Professional","Python"]
+
+- name: Safe Roads 2022
+  role: Professional
+  timeline: "2022" 
   summary: "Winner of this competition between Canada and Mexico. 
   Use of Toronto Police Service, Geotab and INEGI'S databases about traffic. 
   Analysis of traffic collisions in Toronto and in México. 
