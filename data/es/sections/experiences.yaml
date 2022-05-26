@@ -9,6 +9,20 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: SAS.
+    url: "https://www.sas.com/es_mx/home.html"
+    # company overview
+    overview: A través de innovadores softwares y servicios, SAS empodera e inspira clientes alrededor del mundo para transformar datos en conocimineto.
+  positions:
+  - designation: Intern Consultant
+    start: May 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Profesional Service Delivery Intern en SAS México
 - company:
     name: Hello World.
     url: "https://helloworldapp.000webhostapp.com/#"
