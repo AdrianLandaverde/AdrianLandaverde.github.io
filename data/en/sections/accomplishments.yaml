@@ -19,6 +19,13 @@ accomplishments:
     name: SAS
   courseOverview: This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses.
   certificateURL: "https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url"
+  
+- name:Crystal-TEC Data Science Course
+  timeline: "2022"
+  organization:
+    name: Crystal Systems
+  courseOverview: Crystal DSC offers extensive training on the most in-demand Data Science skills with handson exposure to key tools and technologies. Crystal DSC helps Talents to become an industry ready Data Scientist Talents by deep diving into the nuances of data interpretation, mastering powerful programming skills and focusing on the business acumen as an essential element.
+  certificateURL: "files/Crystal_Course.pdf"
 
 - name: "Foundations of Sports Analytics: Data, Representation, and Models in Sports"
   timeline: "2022"
