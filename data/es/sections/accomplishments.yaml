@@ -19,7 +19,7 @@ accomplishments:
   courseOverview: Este curso es para usuarios que quieren aprender a escribir programas SAS para acceder, explorar, preparar y analizar datos. Es el punto de entrada para aprender programación SAS para ciencia de datos, aprendizaje automático e inteligencia artificial. Es el requisito previo a otros cursos de SAS.
   certificateURL: "https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url"
   
-- name: Curso de Ciencia de Datos Crystal-TEC
+- name: "Curso de Ciencia de Datos Crystal-TEC"
   timeline: "2022"
   organization:
     name: Crystal Systems
