@@ -88,7 +88,7 @@ badges:
   url: "https://www.credly.com/badges/eb14082b-f86e-4985-8c80-62a871dba503/public_url"
   badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
   
-  - type: certification
+- type: certification
   name: SAS SQL 1
   url: "https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile"
   badge: "https://images.credly.com/size/680x680/images/46194ad6-e78b-4316-9dfb-6e429fb465e8/62056_badges_EducationTraining_Learn_Programming.png"
