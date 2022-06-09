@@ -19,8 +19,6 @@ accomplishments:
   courseOverview: Este curso te enseña cómo procesar datos de SAS usando Structured Query Language (SQL).
   certificateURL: "https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile"
   
-  
-accomplishments:
 - name: "Programación SAS 2: Técnicas de Manipulación de Datos"
   timeline: "2022"
   organization:
@@ -28,7 +26,6 @@ accomplishments:
   courseOverview: Este curso enseña técnicas de manipulación de datos usando SAS DATA y pasos de procedimiento para acceder, transformar y resumir conjuntos de datos de SAS.
   certificateURL: "https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile"
 
-accomplishments:
 - name: "Programación SAS 1: Fundamentos"
   timeline: "2022"
   organization:
