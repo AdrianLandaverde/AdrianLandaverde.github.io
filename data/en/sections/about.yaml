@@ -79,14 +79,19 @@ badges:
   color: pink
   
 - type: certification
-  name: SAS Programming 1
-  url: "https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url"
-  badge: "https://images.credly.com/size/220x220/images/c5d44d75-9370-43fa-92a6-63e48bb6564f/62056_badges_EducationTraining_Learn_Programming.png"
+  name: SAS Programming 2
+  url: "https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile"
+  badge: "https://images.credly.com/size/680x680/images/1150704f-fd41-468c-a6f5-2d9ed187cd37/62056_badges_EducationTraining_Learn_Programming.png"
   
 - type: certification
   name: Safe Roads 2022
   url: "https://www.credly.com/badges/eb14082b-f86e-4985-8c80-62a871dba503/public_url"
   badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
+  
+  - type: certification
+  name: SAS SQL 1
+  url: "https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile"
+  badge: "https://images.credly.com/size/680x680/images/46194ad6-e78b-4316-9dfb-6e429fb465e8/62056_badges_EducationTraining_Learn_Programming.png"
 
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
