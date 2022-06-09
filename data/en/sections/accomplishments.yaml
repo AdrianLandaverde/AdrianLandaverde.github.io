@@ -13,6 +13,20 @@ section:
 
 accomplishments:
 
+- name: "SAS SQL 1: Essentials"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: This course teaches you how to process SAS data using Structured Query Language (SQL). 
+  certificateURL: "https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile"
+
+- name: "SAS Programming 2: Data Manipulation Techniques"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: This course is for those who need to learn data manipulation techniques using the SAS DATA step and procedures to access, transform, and summarize data. The course builds on the concepts that are presented in the SAS Programming 1 course and is not recommended for beginning SAS software users.
+  certificateURL: "https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile"
+
 - name: "SAS Programming 1: Essentials"
   timeline: "2022"
   organization:
