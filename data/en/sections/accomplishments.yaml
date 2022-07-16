@@ -17,7 +17,7 @@ accomplishments:
   timeline: "2022"
   organization:
     name: SAS
-  courseOverview: SAS Visual Text Analytics enables you to uncover insights hidden within unstructured data using the combined power of natural language processing, machine learning, and linguistic rules. This course explores the five components of Visual Text Analytics: parsing, concept derivation, topic derivation, text categorization, and sentiment analysis
+  courseOverview: "SAS Visual Text Analytics enables you to uncover insights hidden within unstructured data using the combined power of natural language processing, machine learning, and linguistic rules. This course explores the five components of Visual Text Analytics: parsing, concept derivation, topic derivation, text categorization, and sentiment analysis"
   certificateURL: "https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url"
 
 - name: "Deep Learning Using SAS Software"
