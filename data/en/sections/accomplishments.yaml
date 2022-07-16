@@ -13,6 +13,55 @@ section:
 
 accomplishments:
 
+- name: "SAS Visual Text Analytics in SAS Viya"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: SAS Visual Text Analytics enables you to uncover insights hidden within unstructured data using the combined power of natural language processing, machine learning, and linguistic rules. This course explores the five components of Visual Text Analytics: parsing, concept derivation, topic derivation, text categorization, and sentiment analysis
+  certificateURL: "https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url"
+
+- name: "Deep Learning Using SAS Software"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: This course introduces the pivotal components of deep learning. You learn how to build deep feedforward, convolutional, and recurrent neural networks. The neural networks are used to solve problems that include traditional classification, image classification, and sequence-dependent outcomes. Hyperparameter search methods are demonstrated to find an optimal set of hyperparameters for deep learning models. Lastly, transfer learning is covered because this field has shown promise in deep learning
+  certificateURL: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
+
+- name: "Forecasting Using Model Studio in SAS Viya"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: This course provides a hands-on tour of the forecasting functionality in Model Studio, a component of SAS Viya
+  certificateURL: "https://www.credly.com/badges/46b8b7c5-4b2a-4153-b3af-ee84a4082931/public_url"
+
+- name: "SAS Visual Data Mining and Machine Learning on SAS Viya"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: This course introduces SAS Visual Data Mining and Machine Learning for building statistical models in an interactive, exploratory way. Exploratory model fitting is a critical step in modeling big data.
+  certificateURL: "https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url"
+
+- name: "Programming for SAS Viya"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: This course is for users who need to modify existing Base SAS programs that will execute in SAS Viya. This course leverages the power of SAS Cloud Analytic Services (CAS) to access, manage, and manipulate in-memory tables. This course is not intended for beginning SAS software users.
+  certificateURL: "https://www.credly.com/badges/8dec7587-411a-476d-a4d1-7b438a15095e/public_url"
+
+- name: "Building SAS Studio Flows in SAS Viya"
+  timeline: "2022"
+  organization: 
+    name: SAS
+  courseOverview: This course is for users who do not have SAS programming experience but need to access and prepare data, and present summarized results. This course focuses on using flows, a point-and-click tool in SAS Studio that visualizes data transformation processes.
+  certificateURL: "https://www.credly.com/badges/f0234c71-f1f9-4e10-9a19-698dc620f4a4/public_url"
+
+- name: "Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: This introductory course is for SAS software users who perform statistical analyses using SAS/STAT software. The focus is on t tests, ANOVA, and linear regression, and includes a brief introduction to logistic regression.
+  certificateURL: "https://www.credly.com/badges/3ce109a7-1464-4e8b-b156-c3c310d068ff/public_url"
+
 - name: "SAS SQL 1: Essentials"
   timeline: "2022"
   organization:
