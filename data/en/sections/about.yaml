@@ -79,9 +79,9 @@ badges:
   color: pink
   
 - type: certification
-  name: SAS Programming 2
-  url: "https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile"
-  badge: "https://images.credly.com/size/680x680/images/1150704f-fd41-468c-a6f5-2d9ed187cd37/62056_badges_EducationTraining_Learn_Programming.png"
+  name: SAS Visual Data Mining and Machine Learning on SAS Viya
+  url: "https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url"
+  badge: "https://images.credly.com/size/680x680/images/601b950b-4396-493f-bcde-cec8c317330a/62056_badges_EducationTraining_Learn_AdvAnalytics.png"
   
 - type: certification
   name: Safe Roads 2022
@@ -89,9 +89,9 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
   
 - type: certification
-  name: SAS SQL 1
-  url: "https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile"
-  badge: "https://images.credly.com/size/680x680/images/46194ad6-e78b-4316-9dfb-6e429fb465e8/62056_badges_EducationTraining_Learn_Programming.png"
+  name: Deep Learning Using SAS Software
+  url: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/c74581a3-be32-4634-9728-663f21aab7e0/62056_badges_Learn_DataScience.png"
 
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
