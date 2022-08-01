@@ -79,9 +79,9 @@ badges:
   color: pink
   
 - type: certification
-  name: SAS Visual Data Mining and Machine Learning on SAS Viya
-  url: "https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url"
-  badge: "https://images.credly.com/size/680x680/images/601b950b-4396-493f-bcde-cec8c317330a/62056_badges_EducationTraining_Learn_AdvAnalytics.png"
+  name: Applied Data Science with Python
+  url: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
+  badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
   
 - type: certification
   name: Safe Roads 2022
