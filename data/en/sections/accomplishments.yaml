@@ -13,75 +13,30 @@ section:
 
 accomplishments:
 
-- name: "SAS Visual Text Analytics in SAS Viya"
+
+- name: "SAS Viya"
   timeline: "2022"
   organization:
     name: SAS
-  courseOverview: "SAS Visual Text Analytics enables you to uncover insights hidden within unstructured data using the combined power of natural language processing, machine learning, and linguistic rules. This course explores the five components of Visual Text Analytics: parsing, concept derivation, topic derivation, text categorization, and sentiment analysis"
-  certificateURL: "https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url"
-
-- name: "Deep Learning Using SAS Software"
+  courseOverview: "Courses focused on SAS Viya skills on various topic such as [Building SAS Studio Flows in SAS Viya](https://www.credly.com/badges/f0234c71-f1f9-4e10-9a19-698dc620f4a4/public_url), 
+  [Programming for SAS Viya](https://www.credly.com/badges/8dec7587-411a-476d-a4d1-7b438a15095e/public_url), 
+  [SAS Visual Data Mining and Machine Learning on SAS Viya](https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url), 
+  [Forecasting Using Model Studio in SAS Viya](https://www.credly.com/badges/46b8b7c5-4b2a-4153-b3af-ee84a4082931/public_url), 
+  [Deep Learning Using SAS Software](https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url), and
+  [SAS Visual Text Analytics in SAS Viya](https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url)
+  in order to create advanced analytics and forecasting models to predict various situations."
+  certificateURL: "files/SAS_programming_certificados.pdf"
+  
+- name: "SAS Programming"
   timeline: "2022"
   organization:
     name: SAS
-  courseOverview: This course introduces the pivotal components of deep learning. You learn how to build deep feedforward, convolutional, and recurrent neural networks. The neural networks are used to solve problems that include traditional classification, image classification, and sequence-dependent outcomes. Hyperparameter search methods are demonstrated to find an optimal set of hyperparameters for deep learning models. Lastly, transfer learning is covered because this field has shown promise in deep learning
-  certificateURL: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
-
-- name: "Forecasting Using Model Studio in SAS Viya"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: This course provides a hands-on tour of the forecasting functionality in Model Studio, a component of SAS Viya
-  certificateURL: "https://www.credly.com/badges/46b8b7c5-4b2a-4153-b3af-ee84a4082931/public_url"
-
-- name: "SAS Visual Data Mining and Machine Learning on SAS Viya"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: This course introduces SAS Visual Data Mining and Machine Learning for building statistical models in an interactive, exploratory way. Exploratory model fitting is a critical step in modeling big data.
-  certificateURL: "https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url"
-
-- name: "Programming for SAS Viya"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: This course is for users who need to modify existing Base SAS programs that will execute in SAS Viya. This course leverages the power of SAS Cloud Analytic Services (CAS) to access, manage, and manipulate in-memory tables. This course is not intended for beginning SAS software users.
-  certificateURL: "https://www.credly.com/badges/8dec7587-411a-476d-a4d1-7b438a15095e/public_url"
-
-- name: "Building SAS Studio Flows in SAS Viya"
-  timeline: "2022"
-  organization: 
-    name: SAS
-  courseOverview: This course is for users who do not have SAS programming experience but need to access and prepare data, and present summarized results. This course focuses on using flows, a point-and-click tool in SAS Studio that visualizes data transformation processes.
-  certificateURL: "https://www.credly.com/badges/f0234c71-f1f9-4e10-9a19-698dc620f4a4/public_url"
-
-- name: "Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: This introductory course is for SAS software users who perform statistical analyses using SAS/STAT software. The focus is on t tests, ANOVA, and linear regression, and includes a brief introduction to logistic regression.
-  certificateURL: "https://www.credly.com/badges/3ce109a7-1464-4e8b-b156-c3c310d068ff/public_url"
-
-- name: "SAS SQL 1: Essentials"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: This course teaches you how to process SAS data using Structured Query Language (SQL). 
-  certificateURL: "https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile"
-
-- name: "SAS Programming 2: Data Manipulation Techniques"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: This course is for those who need to learn data manipulation techniques using the SAS DATA step and procedures to access, transform, and summarize data. The course builds on the concepts that are presented in the SAS Programming 1 course and is not recommended for beginning SAS software users.
-  certificateURL: "https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile"
-
-- name: "SAS Programming 1: Essentials"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses.
-  certificateURL: "https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url"
+  courseOverview: "Courses focused on SAS Programming skills on various topic such as [SAS Programming 1: Essentials](https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url), 
+  [SAS Programming 2: Data Manipulation Techniques](https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile), 
+  [SAS SQL 1: Essentials](https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile)
+  [Statistics 1: Introduction to ANOVA, Regression, and Logistic Regression](https://www.credly.com/badges/3ce109a7-1464-4e8b-b156-c3c310d068ff/public_url) 
+  in order to manipulate and transform data from various sources."
+  certificateURL: "files/SAS_programming_certificados.pdf"
   
 - name: "Crystal-TEC Data Science Course"
   timeline: "2022"
@@ -98,8 +53,8 @@ accomplishments:
   [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/account/accomplishments/certificate/ZTG7R8VQXTMQ), 
   [Applied Machine Learning in Python](https://www.coursera.org/account/accomplishments/certificate/YNMPBFJ4584P), 
   [Applied Text Mining in Python](https://www.coursera.org/account/accomplishments/certificate/XBZMGFE2XGHD), 
-  and [Applied Social Network Analysis in Python](Applied Social Network Analysis in Python)."
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/66WD5LGWR8CB"
+  and [Applied Social Network Analysis in Python](Applied Social Network Analysis in Python) which focuses on trnasformation of data, plotting, Machine Learning, text mining and network analysis"
+  certificateURL: "https://coursera.org/share/31dd855bc7bf609e0288c5dc2460d70e"
 
 
 - name: "Foundations of Sports Analytics: Data, Representation, and Models in Sports"
