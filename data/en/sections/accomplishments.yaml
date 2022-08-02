@@ -13,6 +13,15 @@ section:
 
 accomplishments:
 
+- name: "Applied Data Science with Python"
+  timeline: "2022"
+  organization:
+    name: IBM
+  courseOverview: "Courses focused on Data Science skills with Python, which include: Python for Data Science](https://www.credly.com/badges/dd555b17-d6f8-486e-90ed-89e1bce87861/public_url), 
+  [Data Visualization Using Python](https://www.credly.com/badges/2f30d0cf-5c9e-4a4a-9088-51a362a27233/public_url), 
+  [Data Analysis Using Python](https://www.credly.com/badges/7aeb8b0e-f4b0-4d43-9ca7-ea82c5e69418/public_url) . These courses provide the knowledge to 
+  analyze and visualize data with Python with packages like scikit-learn, matplotlib and bokeh"
+  certificateURL: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
 
 - name: "SAS Viya"
   timeline: "2022"
