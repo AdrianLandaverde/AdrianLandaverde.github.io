@@ -90,6 +90,14 @@ accomplishments:
   courseOverview: Crystal DSC offers extensive training on the most in-demand Data Science skills with handson exposure to key tools and technologies. Crystal DSC helps Talents to become an industry ready Data Scientist Talents by deep diving into the nuances of data interpretation, mastering powerful programming skills and focusing on the business acumen as an essential element.
   certificateURL: "files/Crystal_Course.pdf"
 
+- name: "Applied Data Science with Python"
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: "An specialization program focused on data science with Python which includes 5 courses: [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/KLT6KWF97EQ9)"
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/66WD5LGWR8CB"
+
+
 - name: "Foundations of Sports Analytics: Data, Representation, and Models in Sports"
   timeline: "2022"
   organization:
