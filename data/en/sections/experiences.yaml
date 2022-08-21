@@ -21,7 +21,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Profesional Service Delivery Intern at SAS México
+    - Face Recognition of known criminals through video surveillance cameras
+    - Use of SAS Viya to develop a Computer Vision Model
+    - Use of SAS Viya for Deep Learning, Text Analytics and Forecasting 
+    - Use of SAS for Data Manipulation and SQL Queries
 
 - company:
     name: Hello World.
