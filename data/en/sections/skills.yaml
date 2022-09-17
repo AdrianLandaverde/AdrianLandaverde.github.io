@@ -13,11 +13,28 @@ section:
 skills:
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Advanced Machine Learning deployment using Supervized and Unsupervized learning using Sickit Learn. Advanced use of Numpy, Pandas, Matplotlib and Seaborn. Experience with Web Scrapping using Selenium"
+  summary: "Advanced Machine Learning deployment using Supervised and Unsupervised learning using Sickit Learn. Advanced use of Numpy, Pandas, Matplotlib and Seaborn. Experience with Web Scrapping using Selenium. Creation of Dashboards with Plotly and Dash"
 
 - name: R
   logo: "/images/sections/skills/r.jpg"
   summary: "Basic Machine Learning deployment using Supervized Learning. Experience using ggpplot and tidyverse. Advanced use of Shiny to create Dashboards and its deployment into the Web"
+
+- name: SAS
+  logo: "/images/sections/skills/sas.png"
+  summary: "Advanced use of SAS Programming and SAS Viya to manage and visualize data, deployment of Machine Learning and Deep Learning Models, Text Analytics, Forecasting"
+
+- name: SQL
+  logo: "/images/sections/skills/sas.png"
+  summary: "Advanced knowledge on database arquitecture, queries and joins of tables"
+
+- name: Tableau
+  logo: "/images/sections/skills/sas.png"
+  summary: "Missing Description"
+
+- name: Power BI
+  logo: "/images/sections/skills/sas.png"
+  summary: "Missing description"
+
 
 - name: Matlab
   logo: "/images/sections/skills/matlab.png"
@@ -31,6 +48,3 @@ skills:
   logo: "/images/sections/skills/mathematica.png"
   summary: "Experience with complex calculations to solve differential equations. Experience creating graphs to visualize data in 2D, 3D and 4D."
 
-- name: SAS
-  logo: "/images/sections/skills/sas.png"
-  summary: "Advanced use of SAS Programming and SAS Viya to manage and visualize data, deployment of Machine Learning and Deep Learning Models, Text Analytics, Forecasting"
