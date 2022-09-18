@@ -8,14 +8,15 @@ image: "images/author/adrian.png"
 contactInfo:
   email: "adrianlandaverden@gmail.com"
   phone: "5530510943"
-  linkedin:
-    icon: linkedin
-    url: "https://www.linkedin.com/in/adri%C3%A1n-landaverde-nava-830331226/"
-    text: "Adrián Landaverde Nava"
   github:
     icon: github
     url: "https://github.com/AdrianLandaverde"
     text: "AdrianLandaverde"
+  linkedin:
+    icon: linkedin
+    url: "https://www.linkedin.com/in/adri%C3%A1n-landaverde-nava-830331226/"
+    text: "Adrián Landaverde Nava"
+  
   
  
 
