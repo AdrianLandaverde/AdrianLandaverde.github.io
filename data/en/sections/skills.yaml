@@ -28,11 +28,11 @@ skills:
   summary: "Advanced knowledge on database arquitecture, queries and joins of tables"
 
 - name: Tableau
-  logo: "/images/sections/skills/sas.png"
+  logo: "/images/sections/skills/tableau.png"
   summary: "Missing Description"
 
 - name: Power BI
-  logo: "/images/sections/skills/sas.png"
+  logo: "/images/sections/skills/powerbi.png"
   summary: "Missing description"
 
 
