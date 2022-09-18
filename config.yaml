@@ -31,13 +31,13 @@ params:
 
   background: "images/site/Fondo.jpg"
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/AdrianLandaverde/AdrianLandaverde.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+  enableTOC: false
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
