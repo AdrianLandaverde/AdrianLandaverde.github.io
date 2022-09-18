@@ -20,7 +20,7 @@ languages:
 markup:
   tableOfContents:
     startLevel: 2
-    endLevel: 6
+    endLevel: 8
     ordered: false
 
 # Enable global emoji support
