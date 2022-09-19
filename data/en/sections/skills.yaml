@@ -24,7 +24,7 @@ skills:
   summary: "Advanced use of SAS Programming and SAS Viya to manage and visualize data, deployment of Machine Learning and Deep Learning Models, Text Analytics, Forecasting"
 
 - name: SQL
-  logo: "/images/sections/skills/sas.png"
+  logo: "/images/sections/skills/sql.png"
   summary: "Advanced knowledge on database arquitecture, queries and joins of tables"
 
 - name: Tableau
