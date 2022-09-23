@@ -29,7 +29,7 @@ skills:
 
 - name: Tableau
   logo: "/images/sections/skills/tableau.png"
-  summary: "Missing Description"
+  summary: "Connect Tableau to a Variety of Datasets. Analyze, Blend, Join, and Calculate Data. Visualize Data in the Form of Various Charts, Plots, and Maps."
 
 - name: Power BI
   logo: "/images/sections/skills/powerbi.png"
