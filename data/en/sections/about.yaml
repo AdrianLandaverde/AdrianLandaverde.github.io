@@ -51,6 +51,22 @@ socialLinks:
 
 
 badges:
+
+- type: certification
+  name: Applied Data Science with Python
+  url: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
+  badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
+  
+- type: certification
+  name: Safe Roads 2022
+  url: "https://www.credly.com/badges/eb14082b-f86e-4985-8c80-62a871dba503/public_url"
+  badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
+  
+- type: certification
+  name: Deep Learning Using SAS Software
+  url: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/c74581a3-be32-4634-9728-663f21aab7e0/62056_badges_Learn_DataScience.png"
+
 - type: soft-skill-indicator
   name: Leadership
   percentage: 100
@@ -81,20 +97,7 @@ badges:
   percentage: 100
   color: pink
   
-- type: certification
-  name: Applied Data Science with Python
-  url: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
-  badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
-  
-- type: certification
-  name: Safe Roads 2022
-  url: "https://www.credly.com/badges/eb14082b-f86e-4985-8c80-62a871dba503/public_url"
-  badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
-  
-- type: certification
-  name: Deep Learning Using SAS Software
-  url: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
-  badge: "https://images.credly.com/size/680x680/images/c74581a3-be32-4634-9728-663f21aab7e0/62056_badges_Learn_DataScience.png"
+
 
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
