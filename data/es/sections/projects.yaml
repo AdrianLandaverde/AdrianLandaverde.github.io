@@ -28,12 +28,22 @@ buttons:
 # your projects
 projects:
 
+- name: Clasificación de Diabetes
+  role: Profesional
+  timeline: "2022"
+  summary: "Análisis exploratorio de personas con diabetes. 
+  Modelos de Machine Learning de clasifcación para predecir diabetes en una persona. Análisis de las variables que contribuyen más para la clasificación. 
+  Creación de un tablero con gráficos, estadísticas y comparación de modelos."
+  url: "http://diabetes-equipo5.herokuapp.com/"
+  tags: ["Profesional","Python"]
+
 - name: Optimización de Rutas de Coppel
   role: Profesional
   timeline: "2022"
   summary: "Optimización de rutas de e-commerce de Coppel. 
   Uso de algoritmos como TSP, VRP y CRVP para optimizar las rutas de entregas. 
   Creación de una metodología automatizada que crea las mejores rutas posibles, optimizando la cantidad de vehículos, el volumen de cada artíulo y el tiempo total de entregas."
+  url: "https://ma2001b-202-4.netlify.app/"
   tags: ["Profesional","Python"]
 
 - name: Safe Roads 2022
@@ -92,13 +102,11 @@ Implementación de Random Forest para predecir la energía por día en toda la p
   #logo: /images/sections/projects/kubernetes.png
   role: Personal
   timeline: "2021"
-  repo: https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8
-  #url: ""  
+  url: "https://adrian-landaverde.shinyapps.io/MarioKart8/"  
   summary: "Datos obtenidos de las estadísticas de cada conductor, kart, alas y llantas de Mario Kart 8 Deluxe.
 Análisis genral de las estadísticas y la correlación entre ellas.
 Análisis multidimensional para encontrar la combinación óptima.
-Creación de un Dashboard con Shiny para encontrar la combinación más cercana a cierta estadística usando KNN.
-Aplicación web en https://adrian-landaverde.shinyapps.io/MarioKart8/"
+Creación de un Dashboard con Shiny para encontrar la combinación más cercana a cierta estadística usando KNN."
   tags: ["Personal","R"]
 
 - name: Predictor de contaminantes en la CDMX
