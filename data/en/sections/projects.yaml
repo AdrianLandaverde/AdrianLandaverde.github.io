@@ -27,12 +27,23 @@ buttons:
 
 # your projects
 projects:
+
+- name: Diabetes Classification
+  role: Professional
+  timeline: "2022"
+  summary: "Exploratory Data Analysis of people with Diabetes. 
+  Machine Learning classification models to rpedict diabetes in a person. Analysis of the variables to contribute to the classification. 
+  Deployment of a Dashboard with summary statistics and model comparison"
+  url: "http://diabetes-equipo5.herokuapp.com/"
+  tags: ["Professional","Python"]
+
 - name: Coppel Route Optimization
   role: Professional
   timeline: "2022"
   summary: "Optimization of Coppel's routes of e-commerce. 
   Use of  algorithms such as TSP, VRP and CVRP in order to optimize the routes of deliveries. 
   Creation of an automated methodology that creates the best routes possible optimizing the number of vehicles, the volume of the articles and the total time of the deliveries"
+  url: "https://ma2001b-202-4.netlify.app/"
   tags: ["Professional","Python"]
 
 - name: Safe Roads 2022
@@ -88,13 +99,11 @@ Implementation of Random Forest to predict energy per day in the whole plant in 
   #logo: /images/sections/projects/kubernetes.png
   role: Personal
   timeline: "2021"
-  repo: https://github.com/AdrianLandaverde/Combinaciones_Mario_Kart_8
-  #url: ""  
+  url: "https://adrian-landaverde.shinyapps.io/MarioKart8/"  
   summary: "Data obtained from the stats of every driver, kart, glider and tires from Mario Kart 8 Deluxe.
 Analysis of general stats and correlation between stats.
 Multidimensional analysis using to find the optimal combination.
-Creation of a R Shiny Dashboard to find the combination nearest to certain stats using KNN.
-Web app in: https://adrian-landaverde.shinyapps.io/MarioKart8/"
+Creation of a R Shiny Dashboard to find the combination nearest to certain stats using KNN."
   tags: ["Personal","R"]
 
 - name: Air pollutants predictor in the CDMX
