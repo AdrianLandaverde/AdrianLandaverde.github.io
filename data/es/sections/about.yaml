@@ -29,7 +29,9 @@ He ganado competencias de Ciencia de Datos como:
 - Tercer lugar del curso de Ciencia de Datos organizado por la empresa Europea Crystal Systems
 
 
-[Checa esta nota sobre mis experiencias](https://conecta.tec.mx/es/noticias/estado-de-mexico/educacion/con-su-proyecto-la-policia-de-toronto-prevendra-accidentes-de-auto)"
+[Checa esta nota sobre mis experiencias](https://conecta.tec.mx/es/noticias/estado-de-mexico/educacion/con-su-proyecto-la-policia-de-toronto-prevendra-accidentes-de-auto)
+
+También soy presidente de [SAIDM](https://instagram.com/saidm.cem?igshid=YmMyMTA2M2Y=) (Sociedad de Alumnos de Ingeniería en Ciencia de Datos y Matemáticas en el Tec de Monterrey Campus Estado de México, en el que organizamos cursos relacionados a ciencia de Datos"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -48,40 +50,10 @@ socialLinks:
 
 # your soft skills
 badges:
-- type: soft-skill-indicator
-  name: Liderazgo
-  percentage: 100
-  color: blue
-  
-- type: soft-skill-indicator
-  name: Autodidacta
-  percentage: 100
-  color: green
-  
-- type: soft-skill-indicator
-  name: Comunicación
-  percentage: 100
-  color: orange
-  
-- type: soft-skill-indicator
-  name: Esfuerzo
-  percentage: 100
-  color: sky
-  
-- type: soft-skill-indicator
-  name: Trabajo en Equipo
-  percentage: 100
-  color: yellow
-  
-- type: soft-skill-indicator
-  name: Curioso
-  percentage: 100
-  color: pink
-  
 - type: certification
-  name: SAS Programming 2
-  url: "https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile"
-  badge: "https://images.credly.com/size/680x680/images/1150704f-fd41-468c-a6f5-2d9ed187cd37/62056_badges_EducationTraining_Learn_Programming.png"
+  name: Applied Data Science with Python
+  url: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
+  badge: "https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
   
 - type: certification
   name: Safe Roads 2022
@@ -89,9 +61,38 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/52cfe4fa-a3eb-4799-b517-dc070f84242e/75566_badges_Challenge_Hackathon_Winner.png"
   
 - type: certification
-  name: SAS SQL 1
-  url: "https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile"
-  badge: "https://images.credly.com/size/680x680/images/46194ad6-e78b-4316-9dfb-6e429fb465e8/62056_badges_EducationTraining_Learn_Programming.png"
+  name: Deep Learning Using SAS Software
+  url: "https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/c74581a3-be32-4634-9728-663f21aab7e0/62056_badges_Learn_DataScience.png"
 
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 100
+  color: blue
+  
+- type: soft-skill-indicator
+  name: Autodidact
+  percentage: 100
+  color: green
+  
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 100
+  color: orange
+  
+- type: soft-skill-indicator
+  name: Hard Work
+  percentage: 100
+  color: sky
+  
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 100
+  color: yellow
+  
+- type: soft-skill-indicator
+  name: Curious
+  percentage: 100
+  color: pink
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
