@@ -22,7 +22,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Profesional Service Delivery Intern en SAS México
+    - Reconocimiento facial de criminales a través de imágenes de cámaras de videovigilancia
+    - Uso de SAS Viya para desarollar un modelo de visión por computadora
+    - Uso de SAS Viya para Deep Learning, Análisis de Texto y Pronóstico
+    - Uso de SAS para manipulación de datos y consultas con SQL
 - company:
     name: Hello World.
     url: "https://helloworldapp.000webhostapp.com/#"
