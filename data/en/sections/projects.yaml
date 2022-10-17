@@ -32,8 +32,8 @@ projects:
   role: Professional
   timeline: "2022"
   summary: "Exploratory Data Analysis of people with Diabetes. 
-  Machine Learning classification models to rpedict diabetes in a person. Analysis of the variables to contribute to the classification. 
-  Deployment of a Dashboard with summary statistics and model comparison"
+  Machine Learning classification models to predict diabetes in a person. Analysis of the variables to contribute to the classification. 
+  Deployment of a Dashboard with statistics, graphs, and model comparison"
   url: "http://diabetes-equipo5.herokuapp.com/"
   tags: ["Professional","Python"]
 
