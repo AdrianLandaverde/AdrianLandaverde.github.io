@@ -13,11 +13,27 @@ section:
 skills:
 - name: Python
   logo: "/images/sections/skills/python.png"
-  summary: "Machine Learning avanzado usando aprendizaje supervisado y no supervisado con Sickit-Learn. Uso avanzado de Numpy, Pandas, Matplotlib y Seaborn. Experiencia de Web Scrapping usando Selenium"
+  summary: "Machine Learning avanzado usando aprendizaje supervisado y no supervisado con Sickit-Learn. Uso avanzado de Numpy, Pandas, Matplotlib y Seaborn. Experiencia de Web Scrapping usando Selenium. Creación de Dashoards con Plotly y Dash"
 
 - name: R
   logo: "/images/sections/skills/r.jpg"
   summary: "Machine Learning básico con aprendizaje supervisado. Experiencia usando ggplot y tidyverse. Uso avanzado de Shiny para crear Dashboards y desplegarlos en la web"
+  
+- name: SAS
+  logo: "/images/sections/skills/sas.png"
+  summary: "Uso avanzado de SAS y SAS Viya para manejar y visualizar información, crear modelos de Machine Learning, Deep Learning, Análisis de Texto y Pronósticos"
+
+- name: SQL
+  logo: "/images/sections/skills/sql.png"
+  summary: "Conocimiento avazado de arquitecturas de bases de datos, consultas y uniones de tablas"
+ 
+- name: Tableau
+  logo: "/images/sections/skills/tableau.png"
+  summary: "Conectar Tableau a diversas bases de datos. Analizar, unir y calcular datos. Visualizar información en forma de diversos gráficos y mapas" 
+
+- name: Power BI
+  logo: "/images/sections/skills/powerbi.png"
+  summary: "Creación de tableros creando gráficos simples"
 
 - name: Matlab
   logo: "/images/sections/skills/matlab.png"
@@ -31,6 +47,4 @@ skills:
   logo: "/images/sections/skills/mathematica.png"
   summary: "Experiencia con cálculos complejos para resolver ecuaciones diferenciales. Experiencia creando gráficos para visualizar información en 2D, 3D y 4D"
 
-- name: SAS
-  logo: "/images/sections/skills/sas.png"
-  summary: "Uso Básico de SAS en la competencia 'Safe Roads 2022'"
+
