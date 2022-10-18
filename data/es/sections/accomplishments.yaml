@@ -23,6 +23,20 @@ accomplishments:
   analizar y visualizar datos con python usando librerías como scikit-learn, matplotlib and bokeh"
   certificateURL: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
 
+- name: "SAS Viya"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: "Cursos enfocados en habilidades de SAS Viya en diferentes temas como: [Construyendo SAS Studio Flows en SAS Viya](https://www.credly.com/badges/f0234c71-f1f9-4e10-9a19-698dc620f4a4/public_url), 
+  [Programando en SAS Viya](https://www.credly.com/badges/8dec7587-411a-476d-a4d1-7b438a15095e/public_url), 
+  [SAS Visual Data Mining y Machine Learning en SAS Viya](https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url), 
+  [Forecasting usando Model Studio en SAS Viya](https://www.credly.com/badges/46b8b7c5-4b2a-4153-b3af-ee84a4082931/public_url), 
+  [Deep Learning usando SAS Software](https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url), and
+  [SAS Visual Text Analytics en SAS Viya](https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url)
+  para crear mdoelos de pornósticos y analítica avanzados para predecir diversas situaciones."
+  certificateURL: "files/SAS_Viya_certificados.pdf"
+
+
 - name: "Curso de Ciencia de Datos Crystal-TEC"
   timeline: "2022"
   organization:
