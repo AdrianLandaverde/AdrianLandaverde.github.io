@@ -36,6 +36,17 @@ accomplishments:
   para crear mdoelos de pornósticos y analítica avanzados para predecir diversas situaciones."
   certificateURL: "files/SAS_Viya_certificados.pdf"
 
+- name: "Programación SAS"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: "Cursos enfocados en habilidades de programación con SAS en diversos temas como [Programación SAS 1: Fundamentos](https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url), 
+  [Programación SAS 2: Técnicas de Manipulación de Datos](https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile), 
+  [SAS SQL 1: Fundamentos](https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile)
+  [Estadística 1: Introducción a ANOVA, Regresión y Regresión Logística](https://www.credly.com/badges/3ce109a7-1464-4e8b-b156-c3c310d068ff/public_url) 
+  para manipular y transformar datos de diferntes fuentes."
+  certificateURL: "files/SAS_programming_certificados.pdf"
+
 
 - name: "Curso de Ciencia de Datos Crystal-TEC"
   timeline: "2022"
