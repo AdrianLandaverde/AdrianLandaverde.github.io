@@ -35,7 +35,7 @@ projects:
   Machine Learning classification models to predict diabetes in a person. Analysis of the variables to contribute to the classification. 
   Deployment of a Dashboard with statistics, graphs, and model comparison"
   url: "http://diabetes-equipo5.herokuapp.com/"
-  tags: ["Professional","Python"]
+  tags: ["Academic","Python", "Machine Learning"]
 
 - name: Coppel Route Optimization
   role: Professional
@@ -44,7 +44,7 @@ projects:
   Use of  algorithms such as TSP, VRP and CVRP in order to optimize the routes of deliveries. 
   Creation of an automated methodology that creates the best routes possible optimizing the number of vehicles, the volume of the articles and the total time of the deliveries"
   url: "https://ma2001b-202-4.netlify.app/"
-  tags: ["Professional","Python"]
+  tags: ["Academic","Python"]
 
 - name: Safe Roads 2022
   role: Professional
