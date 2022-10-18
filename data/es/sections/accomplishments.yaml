@@ -55,6 +55,16 @@ accomplishments:
   courseOverview: Crystal DSC ofrece una amplia capacitación sobre las habilidades de ciencia de datos más demandadas con exposición práctica a herramientas y tecnologías clave. Crystal DSC ayuda a los talentos a convertirse en talentos científicos de datos listos para la industria al profundizar en los matices de la interpretación de datos, dominar poderosas habilidades de programación y enfocarse en la perspicacia comercial como un elemento esencial.
   certificateURL: "files/Crystal_Course.pdf"
   
+  - name: "Ciencia de Datos Aplicada con Python”
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: "Un programa de especialización enfocafos en ciencia de datos con Python que inlcuye 5 cursos: [Introducción a la Ciencia de Datos con Python](https://www.coursera.org/account/accomplishments/certificate/KLT6KWF97EQ9), 
+  [Graficación y representación de datos aplicada con Python](https://www.coursera.org/account/accomplishments/certificate/ZTG7R8VQXTMQ), 
+  [Machine Learning aplicado con Python](https://www.coursera.org/account/accomplishments/certificate/YNMPBFJ4584P), 
+  [Análisis de Texto aplicado con Python](https://www.coursera.org/account/accomplishments/certificate/XBZMGFE2XGHD), 
+  y [Análisis de Redes Sociales aplicado con Python](https://coursera.org/share/2f1574300a7e845d525b83b5d39219b5) que se enfocan en transformación de datos, graficación, Machine Learning, análisis de texto y de redes"
+  certificateURL: "https://coursera.org/share/31dd855bc7bf609e0288c5dc2460d70e"
 
 - name: "Bases del Ánlisis de Deportes: Datos, Representación y Modelos en Deportes"
   timeline: "2022"
