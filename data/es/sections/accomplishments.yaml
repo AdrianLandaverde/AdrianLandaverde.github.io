@@ -55,7 +55,7 @@ accomplishments:
   courseOverview: Crystal DSC ofrece una amplia capacitación sobre las habilidades de ciencia de datos más demandadas con exposición práctica a herramientas y tecnologías clave. Crystal DSC ayuda a los talentos a convertirse en talentos científicos de datos listos para la industria al profundizar en los matices de la interpretación de datos, dominar poderosas habilidades de programación y enfocarse en la perspicacia comercial como un elemento esencial.
   certificateURL: "files/Crystal_Course.pdf"
   
-  - name: "Ciencia de Datos Aplicada con Python”
+- name: "Ciencia de Datos Aplicada con Python”
   timeline: "2022"
   organization:
     name: Coursera
