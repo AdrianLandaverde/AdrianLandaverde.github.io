@@ -35,7 +35,7 @@ projects:
   Modelos de Machine Learning de clasifcación para predecir diabetes en una persona. Análisis de las variables que contribuyen más para la clasificación. 
   Creación de un tablero con gráficos, estadísticas y comparación de modelos."
   url: "http://diabetes-equipo5.herokuapp.com/"
-  tags: ["Profesional","Python"]
+  tags: ["Académico","Python"]
 
 - name: Optimización de Rutas de Coppel
   role: Profesional
@@ -44,7 +44,7 @@ projects:
   Uso de algoritmos como TSP, VRP y CRVP para optimizar las rutas de entregas. 
   Creación de una metodología automatizada que crea las mejores rutas posibles, optimizando la cantidad de vehículos, el volumen de cada artíulo y el tiempo total de entregas."
   url: "https://ma2001b-202-4.netlify.app/"
-  tags: ["Profesional","Python"]
+  tags: ["Académico","Python"]
 
 - name: Safe Roads 2022
   #logo: /images/sections/projects/kubernetes.png
@@ -144,4 +144,4 @@ Análisis de la relación y efectos de los genes que ocasionan que el cáncer de
   summary: "Creación de mi propia base de datos de macro y micronutrientes en cada comida que consumí por 15 semanas.
 Análisis Exploratorio en Excel para analizar mi consumo de comida en esas 15 semanas.
 Uso de Regresión Lineal con Sickit-Learn para predecir calorías por gramo de nutriente."
-  tags: ["Python","Academic"]
+  tags: ["Python","Académico"]
