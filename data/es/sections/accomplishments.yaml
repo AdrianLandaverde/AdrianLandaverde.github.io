@@ -12,33 +12,59 @@ section:
 # Your accomplishments
 
 accomplishments:
-- name: "SAS SQL 1: Fundamentos"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: Este curso te enseña cómo procesar datos de SAS usando Structured Query Language (SQL).
-  certificateURL: "https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile"
-  
-- name: "Programación SAS 2: Técnicas de Manipulación de Datos"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: Este curso enseña técnicas de manipulación de datos usando SAS DATA y pasos de procedimiento para acceder, transformar y resumir conjuntos de datos de SAS.
-  certificateURL: "https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile"
 
-- name: "Programación SAS 1: Fundamentos"
+- name: "Ciencia de Datos aplicada con Python"
+  timeline: "2022"
+  organization:
+    name: IBM
+  courseOverview: "Cursos enfocados en habilidades de ciencia de datos con Python, que incluyen: [Python para Ciencia de Datos](https://www.credly.com/badges/dd555b17-d6f8-486e-90ed-89e1bce87861/public_url), 
+  [Visualización de Datos con Python](https://www.credly.com/badges/2f30d0cf-5c9e-4a4a-9088-51a362a27233/public_url), 
+  [Análisis de Datos con Python](https://www.credly.com/badges/7aeb8b0e-f4b0-4d43-9ca7-ea82c5e69418/public_url) . Estos cursos proveen el conocimiento para
+  analizar y visualizar datos con python usando librerías como scikit-learn, matplotlib and bokeh"
+  certificateURL: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
+
+- name: "SAS Viya"
   timeline: "2022"
   organization:
     name: SAS
-  courseOverview: Este curso es para usuarios que quieren aprender a escribir programas SAS para acceder, explorar, preparar y analizar datos. Es el punto de entrada para aprender programación SAS para ciencia de datos, aprendizaje automático e inteligencia artificial. Es el requisito previo a otros cursos de SAS.
-  certificateURL: "https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url"
-  
+  courseOverview: "Cursos enfocados en habilidades de SAS Viya en diferentes temas como: [Construyendo SAS Studio Flows en SAS Viya](https://www.credly.com/badges/f0234c71-f1f9-4e10-9a19-698dc620f4a4/public_url), 
+  [Programando en SAS Viya](https://www.credly.com/badges/8dec7587-411a-476d-a4d1-7b438a15095e/public_url), 
+  [SAS Visual Data Mining y Machine Learning en SAS Viya](https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url), 
+  [Forecasting usando Model Studio en SAS Viya](https://www.credly.com/badges/46b8b7c5-4b2a-4153-b3af-ee84a4082931/public_url), 
+  [Deep Learning usando SAS Software](https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url), and
+  [SAS Visual Text Analytics en SAS Viya](https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url)
+  para crear mdoelos de pornósticos y analítica avanzados para predecir diversas situaciones."
+  certificateURL: "files/SAS_Viya_certificados.pdf"
+
+- name: "Programación SAS"
+  timeline: "2022"
+  organization:
+    name: SAS
+  courseOverview: "Cursos enfocados en habilidades de programación con SAS en diversos temas como [Programación SAS 1: Fundamentos](https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url), 
+  [Programación SAS 2: Técnicas de Manipulación de Datos](https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile), 
+  [SAS SQL 1: Fundamentos](https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile)
+  [Estadística 1: Introducción a ANOVA, Regresión y Regresión Logística](https://www.credly.com/badges/3ce109a7-1464-4e8b-b156-c3c310d068ff/public_url) 
+  para manipular y transformar datos de diferntes fuentes."
+  certificateURL: "files/SAS_programming_certificados.pdf"
+
 - name: "Curso de Ciencia de Datos Crystal-TEC"
   timeline: "2022"
   organization:
     name: Crystal Systems
   courseOverview: Crystal DSC ofrece una amplia capacitación sobre las habilidades de ciencia de datos más demandadas con exposición práctica a herramientas y tecnologías clave. Crystal DSC ayuda a los talentos a convertirse en talentos científicos de datos listos para la industria al profundizar en los matices de la interpretación de datos, dominar poderosas habilidades de programación y enfocarse en la perspicacia comercial como un elemento esencial.
   certificateURL: "files/Crystal_Course.pdf"
+  
+- name: "Ciencia de Datos Aplicada con Python
+  timeline: "2022"
+  organization:
+    name: Coursera
+  courseOverview: "Un programa de especialización enfocafos en ciencia de datos con Python que inlcuye 5 cursos: [Introducción a la Ciencia de Datos con Python](https://www.coursera.org/account/accomplishments/certificate/KLT6KWF97EQ9), 
+  [Graficación y representación de datos aplicada con Python](https://www.coursera.org/account/accomplishments/certificate/ZTG7R8VQXTMQ), 
+  [Machine Learning aplicado con Python](https://www.coursera.org/account/accomplishments/certificate/YNMPBFJ4584P), 
+  [Análisis de Texto aplicado con Python](https://www.coursera.org/account/accomplishments/certificate/XBZMGFE2XGHD), 
+  and [Análisis de Redes Sociales aplicado con Python](https://coursera.org/share/2f1574300a7e845d525b83b5d39219b5) que se enfocan en transformación de datos, graficación, Machine Learning, análisis de texto y de redes"
+  certificateURL: "https://coursera.org/share/31dd855bc7bf609e0288c5dc2460d70e"
+
 
 - name: "Bases del Ánlisis de Deportes: Datos, Representación y Modelos en Deportes"
   timeline: "2022"
@@ -46,41 +72,6 @@ accomplishments:
     name: Coursera
   courseOverview: Este curso proporciona una introducción al uso de Python para analizar el rendimiento de los equipos en los deportes. Los alumnos descubrirán una variedad de técnicas que se pueden usar para representar datos deportivos y cómo extraer narrativas basadas en estas técnicas analíticas. El enfoque principal de la introducción será el uso del análisis de regresión para analizar los datos de rendimiento del equipo y del jugador.
   certificateURL: "https://www.coursera.org/account/accomplishments/certificate/66WD5LGWR8CB"
-
-- name: Análisis de Redes Sociales Aplicado en Python
-  timeline: "2022"
-  organization:
-    name: Coursera
-  courseOverview: Este curso introducirá al alumno al análisis de redes a través de tutoriales utilizando la biblioteca NetworkX. Se centra en la comprensión de lo que es el análisis de redes, la conectividad y la solidez de las redes, las formas de medir la importancia o la centralidad de un nodo en una red y la evolución de las redes a lo largo del tiempo y cubre los modelos de generación de redes.
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/VUVX3YNDQRWQ"
-
-- name: Minería de Texto Aplicada en Python
-  timeline: "2022"
-  organization:
-    name: Coursera
-  courseOverview: Este curso presentará al alumno los conceptos básicos de minería de texto y manipulación de texto. Se centra en cómo python maneja el texto, las necesidades de manipulación comunes, incluidas las expresiones regulares, la limpieza del texto y la preparación del texto para su uso en los procesos de aprendizaje automático, métodos básicos de procesamiento del lenguaje natural y métodos avanzados para detectar los temas en los documentos
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/XBZMGFE2XGHD"
-
-- name: Aprendizaje Automático Aplicado en Python
-  timeline: "2022"
-  organization:
-    name: Coursera
-  courseOverview: Este curso introducirá al alumno a identificar la diferencia entre una técnica supervisada (clasificación) y no supervisada (agrupación), identificará qué técnica necesita aplicar para un conjunto de datos y una necesidad en particular, diseñará características para satisfacer esa necesidad y escribirá código Python para poder realizar un análisis.
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/YNMPBFJ4584P"
-
-- name: Aplicación de Gráficos, Tablas y Representación de Datos en Python
-  timeline: "2021"
-  organization:
-    name: Coursera
-  courseOverview: Este curso introducirá al alumno a los conceptos básicos de visualización de información, con un enfoque en informes y gráficos utilizando la biblioteca matplotlib. Incluye la perspectiva del diseño y la alfabetización informacional, las mejores prácticas al crear gráficos básicos y cómo tomar decisiones de diseño en el marco, la funcionalidad disponible en matplotlib y otras formas de estructurar y visualizar datos.
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/ZTG7R8VQXTMQ"
-
-- name: Introducción a la Ciencia de Datos en Python
-  timeline: "2021"
-  organization:
-    name: Coursera
-  courseOverview: Este curso presentará al alumno los conceptos básicos del entorno de programación de Python, incluidas las técnicas fundamentales de programación de Python, como lambdas, lectura y manipulación de archivos csv y la biblioteca numpy. El curso introducirá técnicas de manipulación y limpieza de datos utilizando la popular biblioteca de ciencia de datos python pandas e introducirá la abstracción de Series y DataFrame como las estructuras de datos centrales para el análisis de datos, junto con tutoriales sobre cómo usar funciones como groupby, merge y tablas dinámicas de manera efectiva
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/KLT6KWF97EQ9"
 
 - name: Micro-cursos de Ciencia de Datos
   timeline: "2021"
