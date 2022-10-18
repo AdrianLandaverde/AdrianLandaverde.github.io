@@ -23,30 +23,6 @@ accomplishments:
   analizar y visualizar datos con python usando librerías como scikit-learn, matplotlib and bokeh"
   certificateURL: "https://www.credly.com/badges/9f4a6a36-5cdf-4f24-94c2-ca18f7c7b9cb/public_url"
 
-- name: "SAS Viya"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: "Cursos enfocados en habilidades de SAS Viya en diferentes temas como: [Construyendo SAS Studio Flows en SAS Viya](https://www.credly.com/badges/f0234c71-f1f9-4e10-9a19-698dc620f4a4/public_url), 
-  [Programando en SAS Viya](https://www.credly.com/badges/8dec7587-411a-476d-a4d1-7b438a15095e/public_url), 
-  [SAS Visual Data Mining y Machine Learning en SAS Viya](https://www.credly.com/badges/8c513441-ea3c-4802-a80d-aaa542fb0603/public_url), 
-  [Forecasting usando Model Studio en SAS Viya](https://www.credly.com/badges/46b8b7c5-4b2a-4153-b3af-ee84a4082931/public_url), 
-  [Deep Learning usando SAS Software](https://www.credly.com/badges/1636c06a-1b99-4636-8a07-be3bc25e018f/public_url), and
-  [SAS Visual Text Analytics en SAS Viya](https://www.credly.com/badges/1e4d0417-53cf-4105-a790-b548a4a52dc3/public_url)
-  para crear mdoelos de pornósticos y analítica avanzados para predecir diversas situaciones."
-  certificateURL: "files/SAS_Viya_certificados.pdf"
-
-- name: "Programación SAS"
-  timeline: "2022"
-  organization:
-    name: SAS
-  courseOverview: "Cursos enfocados en habilidades de programación con SAS en diversos temas como [Programación SAS 1: Fundamentos](https://www.credly.com/badges/d34facca-216d-4e02-9155-be112c2a535a/public_url), 
-  [Programación SAS 2: Técnicas de Manipulación de Datos](https://www.credly.com/badges/197f6b70-3a30-4729-ab25-1ee31444bbd8?source=linked_in_profile), 
-  [SAS SQL 1: Fundamentos](https://www.credly.com/badges/b976b88b-8c16-40eb-9d3c-28f1bd54a38e?source=linked_in_profile)
-  [Estadística 1: Introducción a ANOVA, Regresión y Regresión Logística](https://www.credly.com/badges/3ce109a7-1464-4e8b-b156-c3c310d068ff/public_url) 
-  para manipular y transformar datos de diferntes fuentes."
-  certificateURL: "files/SAS_programming_certificados.pdf"
-
 - name: "Curso de Ciencia de Datos Crystal-TEC"
   timeline: "2022"
   organization:
@@ -54,17 +30,6 @@ accomplishments:
   courseOverview: Crystal DSC ofrece una amplia capacitación sobre las habilidades de ciencia de datos más demandadas con exposición práctica a herramientas y tecnologías clave. Crystal DSC ayuda a los talentos a convertirse en talentos científicos de datos listos para la industria al profundizar en los matices de la interpretación de datos, dominar poderosas habilidades de programación y enfocarse en la perspicacia comercial como un elemento esencial.
   certificateURL: "files/Crystal_Course.pdf"
   
-- name: "Ciencia de Datos Aplicada con Python
-  timeline: "2022"
-  organization:
-    name: Coursera
-  courseOverview: "Un programa de especialización enfocafos en ciencia de datos con Python que inlcuye 5 cursos: [Introducción a la Ciencia de Datos con Python](https://www.coursera.org/account/accomplishments/certificate/KLT6KWF97EQ9), 
-  [Graficación y representación de datos aplicada con Python](https://www.coursera.org/account/accomplishments/certificate/ZTG7R8VQXTMQ), 
-  [Machine Learning aplicado con Python](https://www.coursera.org/account/accomplishments/certificate/YNMPBFJ4584P), 
-  [Análisis de Texto aplicado con Python](https://www.coursera.org/account/accomplishments/certificate/XBZMGFE2XGHD), 
-  and [Análisis de Redes Sociales aplicado con Python](https://coursera.org/share/2f1574300a7e845d525b83b5d39219b5) que se enfocan en transformación de datos, graficación, Machine Learning, análisis de texto y de redes"
-  certificateURL: "https://coursera.org/share/31dd855bc7bf609e0288c5dc2460d70e"
-
 
 - name: "Bases del Ánlisis de Deportes: Datos, Representación y Modelos en Deportes"
   timeline: "2022"
