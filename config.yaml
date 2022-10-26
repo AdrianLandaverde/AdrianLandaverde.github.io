@@ -29,6 +29,10 @@ enableEmoji: true
 # Site parameters
 params:
 
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system
   background: "images/site/Fondo.jpg"
   # GitHub repo URL of your site
   gitRepo: https://github.com/AdrianLandaverde/AdrianLandaverde.github.io
